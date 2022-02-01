@@ -1,0 +1,9 @@
+.test{
+    border: 2px solid hotpink;
+}
+parent-li li:hover {
+    background-color: rgb(29, 158, 158);
+}
+.parent-li li i {
+    cursor: pointer;
+}
